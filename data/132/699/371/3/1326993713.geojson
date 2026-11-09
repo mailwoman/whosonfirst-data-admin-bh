@@ -52,8 +52,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
-        85632167,
-        85669049
+        85632167
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,14 +65,13 @@
         {
             "continent_id":102191569,
             "country_id":85632167,
-            "locality_id":1326993713,
-            "region_id":85669049
+            "locality_id":1326993713
         }
     ],
     "wof:id":1326993713,
     "wof:lastmodified":1566614333,
     "wof:name":"An Nuwaydirat",
-    "wof:parent_id":85669049,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-bh",
     "wof:superseded_by":[],
